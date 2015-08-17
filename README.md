@@ -7,7 +7,7 @@ This is an example of how to create a Maven Archetype. This archetype create a n
 
 1. Clone the repo to your local machine.
 2. Run command `mvn clean install`.
-3. The archetype will be create en local maven repo.
+3. The archetype will be create in local maven repo (.m2)
 
 # Usage
 
